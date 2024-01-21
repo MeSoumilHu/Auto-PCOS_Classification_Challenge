@@ -1,0 +1,19 @@
+# Code Breakdown
+
+- 1 - Packages
+- 2 - Helper Functions for Data Processing
+    - 2.1 - Load Data
+    - 2.2 - Pre-Process Data
+- 3 - Helper Functions for U-Net Architecture
+    - 3.1 - U-Net Encoder Block
+    - 3.2 - U-Net Decoder Block
+    - 3.3 - Compile U-Net Blocks
+- 4 - Executing above Functions to Train the Model
+    - 4.1 - Load and View Data
+    - 4.2 - Process Data
+    - 4.3 - Split Train and Test
+    - 4.4 - Build U-Net Architecture
+    - 4.5 - Compile and Run Model
+- 5 - Evaluate Results
+    - 5.1 - Bias-Variance Check
+    - 5.2 - View Predicted Segmentations
