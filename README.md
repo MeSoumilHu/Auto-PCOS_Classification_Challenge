@@ -28,8 +28,8 @@ The aim of the Auto-PCOS classification challenge is to provide an opportunity f
     </tr>
     <tr>
       <td>Lakshay Sharma</td>
-      <td><a href = "">Lakshay Sharma</a></td>
-      <td><a href = "">Lakshay Sharma</a></td>
+      <td><a href = "https://github.com/LakshaySharma10">LakshaySharma10</a></td>
+      <td><a href = "https://www.linkedin.com/in/lakshay-sharma-242907259/">Lakshay Sharma</a></td>
     </tr>
   </tbody>
 </table>
