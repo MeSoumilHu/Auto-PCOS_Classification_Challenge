@@ -1,4 +1,4 @@
-# Auto-PCOS_Classification_Challenge
+# Auto-PCOS Classification Challenge
 
 <hr>
 
