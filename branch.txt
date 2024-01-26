@@ -1,0 +1,4 @@
+git branch -m main Auto-PCOS_Classification_Challenge
+git fetch origin
+git branch -u origin/Auto-PCOS_Classification_Challenge Auto-PCOS_Classification_Challenge
+git remote set-head origin -a
